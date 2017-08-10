@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396ececa-bac4-4e41-b10c-ad86cd612b5a" name="Default" comment="">
+    <list default="true" id="396ececa-bac4-4e41-b10c-ad86cd612b5a" name="Default" comment="logo pic">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/codeup-design.css" afterPath="$PROJECT_DIR$/CSS/codeup-design.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/codeup-design.html" afterPath="$PROJECT_DIR$/codeup-design.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +19,8 @@
       <file leaf-file-name="codeup-design.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/codeup-design.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -250,11 +250,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502397894997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="logo pic">
+      <created>1502397971418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502397971418</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5205000" />
+    <option name="totallyTimeSpent" value="5364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -316,7 +323,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="*add html and css file&#10;*add assets folder" />
     <MESSAGE value="trying to position imgage inside of banner" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to position imgage inside of banner" />
+    <MESSAGE value="logo pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo pic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -422,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/codeup-design.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
