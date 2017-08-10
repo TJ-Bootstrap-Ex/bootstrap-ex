@@ -8,17 +8,24 @@ body {
 
 .white-banner {
     background-color: #fff;
-    height: 50px;
+    height: 5%;
     margin-top: 50px;
-    position: relative;
 }
 
 .hero-title {
-    height:105px;
-    width:105px;
-    background-color: none;
-    position: absolute;
-    left:45%;
-    top:-25px;
+    height:auto;
+    width:50%;
+    /*background-color: none;*/
+    /*position: absolute;*/
+    /*left:45%;*/
+    /*top:-25px;*/
 
+}
+
+.text-nav>li{
+    display: inline-block;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 5px;
+    /*margin-right: 5px;*/
 }
