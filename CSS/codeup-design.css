@@ -121,6 +121,12 @@ body {
     padding:0;
 }
 
+.spacer {
+    height: 50px;
+    width: 100px;
+    border: 1px solid crimson;
+}
+
 
 .nav-box {
     display: flex;
@@ -131,6 +137,7 @@ body {
     height: 100%;
     margin: 0 auto;
     text-align: center;
+    border: 1px solid pink;
 }
 .img-size {
     width:auto;
