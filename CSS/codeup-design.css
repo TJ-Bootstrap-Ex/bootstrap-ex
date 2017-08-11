@@ -121,15 +121,13 @@ body {
     flex-flow: row wrap;
     justify-content: space-around;
     align-items: flex-end;
-    width: 65%;
+    width: 50%;
     height: 100%;
     margin: 0 auto;
     text-align: center;
     border: 1px solid pink;
 }
-.nav-box>* {
 
-}
 .img-size {
     height: 105px;
     width: 105px;
