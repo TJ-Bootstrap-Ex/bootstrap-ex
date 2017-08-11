@@ -126,12 +126,39 @@ body {
     padding:0;
 }
 
-.spacer {
-    height: 50px;
-    width: 100px;
-    border: 1px solid crimson;
+.nav-bar-lg {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-end;
+    height: 100%;
+    margin: 0 50px;
+
+
+
 }
 
+.nav-bar-lg:last-child {
+    flex: 3 0 auto;
+    align-self: flex-end;
+}
+
+.flex-container-2 {
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+.flex-container {
+    display: flex;
+    flex: 1 0 auto;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+}
+.flex-container p{
+    padding: 0 25px 0 0;
+
+
+}
 
 .nav-box {
     display: flex;
