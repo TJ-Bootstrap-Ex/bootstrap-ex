@@ -42,8 +42,13 @@ p {
     font-size:20px;
 }
 
-p.sub-title {
+p.sub-title, .sub-title {
     font-weight:bold;
+}
+
+.twitter {
+    height:20px;
+    width:20px;
 }
 
 .title {
