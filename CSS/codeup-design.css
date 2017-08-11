@@ -7,6 +7,8 @@ h1, h2  {
     font-family: 'Anton', sans-serif;
 }
 
+
+
 h1 {
     font-size: 64px;
 }
@@ -176,8 +178,10 @@ body {
     width:auto;
 }
 
-.row.img-thumbnail {
-    border-color: #E6E6E6;
+.img-thumbnail {
+    background-color: #E6E6E6;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .lg {
@@ -205,6 +209,6 @@ body {
     padding-right:15px;
 }
 .empty-row {
-    height: 200px;
+    height: 50px;
 }
 
