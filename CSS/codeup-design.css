@@ -142,8 +142,9 @@ body {
     height: 100%;
     margin: 0 auto;
     text-align: center;
-    border: 1px solid pink;
 }
+
+
 .img-size {
     width:auto;
 }
@@ -151,6 +152,12 @@ body {
 .row.img-thumbnail {
     border-color: #E6E6E6;
 }
+
+.lg {
+    float: left;
+}
+
+
 
 .img-relative {
     height: 105px;
