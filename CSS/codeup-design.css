@@ -2,6 +2,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: 'Anton', sans-serif;
+}
 h1, h2  {
     font-family: 'Anton', sans-serif;
 }
@@ -15,12 +18,12 @@ h2 {
 }
 
 h3.des {
-    color: white;
+    color: #fff;
     margin-top:50px;
 }
 
 h4.des {
-    color: #ffffff;
+    color: #fff;
     margin-top:50px;
 }
 
@@ -34,7 +37,7 @@ h4 {
 
 h5 {
     font-size:28px;
-    color: #ffffff;
+    color: #fff;
 }
 p {
     font-family: 'Abel', sans-serif;
@@ -61,14 +64,27 @@ body {
     padding:20px;
 
 }
+.mini-cap {
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    font-size: 9px;
+    line-height: 18px;
+    border-radius: 100px;
+    text-align: center;
 
+
+}
+.shift-right {
+    text-align: right;
+}
 .cap-red {
     background-color: #E6563B;
 }
 
 .cap-orange {
     background-color: #e6a41d;
-    padding-left:6px;
+
 }
 
 .cap-green {
@@ -106,3 +122,4 @@ body {
 .empty-row {
     height: 200px;
 }
+
