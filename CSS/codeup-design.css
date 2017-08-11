@@ -125,10 +125,16 @@ body {
     height: 100%;
     margin: 0 auto;
     text-align: center;
-    border: 1px solid pink;
+}
+.img-size {
+    width:auto;
 }
 
-.img-size {
+.row.img-thumbnail {
+    border-color: #E6E6E6;
+}
+
+.img-relative {
     height: 105px;
     width: 105px;
     z-index: 9000;
