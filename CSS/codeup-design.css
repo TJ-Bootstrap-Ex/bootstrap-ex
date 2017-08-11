@@ -103,4 +103,6 @@ body {
 .my-nav>li {
     padding-right:15px;
 }
-
+.empty-row {
+    height: 200px;
+}
